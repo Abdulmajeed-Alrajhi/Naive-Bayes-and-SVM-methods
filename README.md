@@ -1,2 +1,6 @@
 # Naive-Bayes-and-SVM-Predict
-using sklearn libary to implement Naive Bayes and SVM to train system and predict result for same data to check accuracy of Predection
+Using sklearn libary to implement Naive Bayes and SVM to train system and predict result for same data to check accuracy of Predection
+
+Recomanded: use google colab to test code
+
+If there any Problem let me know
